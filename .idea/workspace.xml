@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
@@ -25,14 +30,17 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/module2-solution" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602693466242</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Run _2_StartTheGoogleMapsActivity  for test">
+      <created>1602693962932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602693962932</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,7 +219,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/module2-solution" />
                       </list>
                     </value>
                   </entry>
@@ -218,33 +233,38 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Overrided onOptionsItemSelected(MenuItem item) in MainActivity to start infoActivity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Overrided onOptionsItemSelected(MenuItem item) in MainActivity to start infoActivity" />
+    <MESSAGE value="Run _2_StartTheGoogleMapsActivity  for test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Run _2_StartTheGoogleMapsActivity  for test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="30" y="0" key="CommitChangelistDialog2" timestamp="1602693463607">
+    <state x="30" y="0" key="CommitChangelistDialog2" timestamp="1602693961550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="30" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602693463607" />
+    <state x="30" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602693961550" />
+    <state x="62" y="105" width="1183" height="544" key="DiffContextDialog" timestamp="1602694813076">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="62" y="105" width="1183" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1602694813076" />
     <state x="543" y="276" key="Github.Dialog.Accounts.Choose" timestamp="1602693551982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="543" y="276" key="Github.Dialog.Accounts.Choose/0.0.1366.728@0.0.1366.728" timestamp="1602693551982" />
-    <state width="1322" height="136" key="GridCell.Tab.0.bottom" timestamp="1602693685082">
+    <state width="1322" height="178" key="GridCell.Tab.0.bottom" timestamp="1602693921356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="136" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602693685082" />
-    <state width="1322" height="136" key="GridCell.Tab.0.center" timestamp="1602693685082">
+    <state width="1322" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602693921356" />
+    <state width="1322" height="178" key="GridCell.Tab.0.center" timestamp="1602693921356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="136" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602693685082" />
-    <state width="1322" height="136" key="GridCell.Tab.0.left" timestamp="1602693685082">
+    <state width="1322" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602693921356" />
+    <state width="1322" height="178" key="GridCell.Tab.0.left" timestamp="1602693921356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="136" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602693685082" />
-    <state width="1322" height="136" key="GridCell.Tab.0.right" timestamp="1602693685082">
+    <state width="1322" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602693921356" />
+    <state width="1322" height="178" key="GridCell.Tab.0.right" timestamp="1602693921356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="136" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602693685082" />
+    <state width="1322" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602693921356" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602693533093">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
